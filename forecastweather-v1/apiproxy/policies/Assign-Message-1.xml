@@ -3,7 +3,7 @@
     <DisplayName>Assign Message 1</DisplayName>
     <Set>
         <Headers>
-          <Header name="ENV">ENVIRONMENT</Header>  
+          <Header name="ENV">ENVIRONMENT1234567</Header>  
         </Headers>
         <QueryParams/>
         <FormParams/>
