@@ -57,7 +57,7 @@
                     "tokens": [
                         {
                             "xpath": "/AssignMessage/Set/Headers/Header[@name='ENV']",
-                            "value": "PROD"
+                            "value": "PROD1234"
                         }
                     ]
                 }
